@@ -1,0 +1,16 @@
+/workspaces/Net/Series/bin/Debug/net5.0/Series
+/workspaces/Net/Series/bin/Debug/net5.0/Series.deps.json
+/workspaces/Net/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/workspaces/Net/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/workspaces/Net/Series/bin/Debug/net5.0/Series.dll
+/workspaces/Net/Series/bin/Debug/net5.0/ref/Series.dll
+/workspaces/Net/Series/bin/Debug/net5.0/Series.pdb
+/workspaces/Net/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/workspaces/Net/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Net/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/workspaces/Net/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/workspaces/Net/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/workspaces/Net/Series/obj/Debug/net5.0/Series.dll
+/workspaces/Net/Series/obj/Debug/net5.0/ref/Series.dll
+/workspaces/Net/Series/obj/Debug/net5.0/Series.pdb
+/workspaces/Net/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
